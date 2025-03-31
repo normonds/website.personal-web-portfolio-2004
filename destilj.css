@@ -1,0 +1,15 @@
+body {
+	background-color: Black;
+	color: white;
+	cursor: default;
+	margin: 10px;
+}
+hr {
+	margin-bottom: 10px;
+}
+object {
+
+}
+.item {
+	padding: 10px;
+}
